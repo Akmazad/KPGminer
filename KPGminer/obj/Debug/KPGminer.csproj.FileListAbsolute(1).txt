@@ -1,0 +1,9 @@
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.exe
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.exe.config
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.pdb
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.csprojResolveAssemblyReference.cache
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.Form1.resources
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.Properties.Resources.resources
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.csproj.GenerateResource.Cache
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.exe
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.pdb

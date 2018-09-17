@@ -1,0 +1,29 @@
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.exe
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.exe.config
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.pdb
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.csprojResolveAssemblyReference.cache
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.Form1.resources
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.Properties.Resources.resources
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.csproj.GenerateResource.Cache
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.exe
+G:\My Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.pdb
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.exe.config
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.exe
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.pdb
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.exe
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\bin\Debug\KPGminer.pdb
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.csprojResolveAssemblyReference.cache
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.Form1.resources
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.Properties.Resources.resources
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.csproj.GenerateResource.Cache
+C:\Users\aazad\Google Drive\Post PHD matters\Projects\Get KEGG pathway genes\KPGminer\KPGminer\obj\Debug\KPGminer.InitialLoadingForm.resources
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\bin\Debug\KPGminer.exe.config
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\bin\Debug\KPGminer.exe
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\bin\Debug\KPGminer.pdb
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\obj\Debug\KPGminer.Form1.resources
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\obj\Debug\KPGminer.SplashForm.resources
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\obj\Debug\KPGminer.Properties.Resources.resources
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\obj\Debug\KPGminer.csproj.GenerateResource.cache
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\obj\Debug\KPGminer.csproj.CoreCompileInputs.cache
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\obj\Debug\KPGminer.exe
+C:\Users\z3526914\Downloads\KPGminer\KPGminer\obj\Debug\KPGminer.pdb
