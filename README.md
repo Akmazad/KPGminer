@@ -19,3 +19,5 @@ KPGminer is freely available for download from https://sourceforge.net/projects/
 	journal = {bioRxiv}
 }
 ```
+## Demo
+![KPGMiner demo snapshot](img/KPGMiner_SA_v1.0.0.jpg)
