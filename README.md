@@ -21,3 +21,6 @@ KPGminer is freely available for download from https://sourceforge.net/projects/
 ```
 ## Demo
 ![KPGMiner demo snapshot](img/KPGMiner_SA_v1.0.0.jpg)
+
+## Similar resource
+1. [paxtoolsr](https://bioconductor.org/packages/release/bioc/manuals/paxtoolsr/man/paxtoolsr.pdf)
